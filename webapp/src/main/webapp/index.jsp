@@ -4,6 +4,6 @@
 </head>
 <body bgcolor="yellow">
 <hr>
-<h1>This my CI/CD Prpject</h1><hr>
+<h1>This my CI/CD Project</h1><hr>
 </body>
 </html>
